@@ -77,4 +77,5 @@ The Mixture of Experts approach improved classification performance by allowing 
 ## Developer
 
 Lena Alshammari 
-✨ This project demonstrates advanced machine learning, ensemble techniques, and model explainability.
+
+ This project demonstrates advanced machine learning, ensemble techniques, and model explainability.
